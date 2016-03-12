@@ -18,6 +18,6 @@ Schuger offer users, full customization with the use of themes and custom templa
 11.	Discussion Forum etc.
  
 
-# Requirement for each modules: 1. result Processor: See uploaded zip file (file.zip) 
-Am working on the requirement for other modules... 
+# Requirement for each modules: 
+See uploaded zip file (file.zip) 
 
