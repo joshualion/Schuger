@@ -1,5 +1,5 @@
-<?php #  - register.php
-// This is the registration page for the portal.
+<?php 
+// This is the registration page for the system.
 require ('includes/config.php');
 $page_title = 'Register';
 include ('includes/header_front.php');
