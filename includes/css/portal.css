@@ -1,0 +1,208 @@
+/* body */
+body{
+	font-family:13px/20px "Open Sans", Arial, sans-serif;
+	color: #0B0B0B;
+		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+		-webkit-text-size-adjust: 100%;
+	    -ms-word-wrap: break-word;
+        word-wrap: break-word;
+	}
+
+a H4{
+	color:#02623E;
+	text-align:center;
+}
+
+ H4{
+	color: #f90; /*rgba(255,252,185,1);*/
+	text-align:center;
+}
+
+sup{
+	color:rgba(255,0,0,1);
+	
+}
+
+/* header */
+header {
+	font:"Comic Sans MS", cursive;
+	height:100px;
+	margin:auto;
+	width:auto;
+	background-color: #02623E;
+	background-image:url(../images/bg2.png) repeat x;
+	
+}
+
+header img {
+	font:"Comic Sans MS", cursive;
+	margin-top:10px;
+	
+	
+}
+
+/* header */
+.header {
+	font:"Comic Sans MS", cursive;
+	height:100px;
+	margin:auto;
+	width:auto;
+	background-color:#02623E;
+	
+}
+.header h1 {
+	color:#fff;
+	font-size:300%;
+	letter-spacing:-3px;
+	text-align:right;
+	padding:5px;
+	margin-bottom:-20px;
+	margin-right:20px;
+}
+.header p{
+	color:rgba(255,255,204,1);
+	font-size:150%;
+	letter-spacing:-2px;
+	text-align:right;
+	margin-right:20px;
+}
+
+.success h3{
+	color:rgba(97,160,27,1);
+	font-size:150%;
+	margin:20px;
+}
+
+#tabs {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+
+.form{
+margin-top:1.5%;
+margin-left:34%;
+width:40%;
+background-color:#02623E;
+color:#f90;
+	background: #02623E;
+        min-height: 100px;
+        position: relative;
+        display: block;
+        left: -46px;
+        padding: 0 40px;
+        -webkit-box-shadow: 0 0 10px rgba(0,0,0,.2);
+        -moz-box-shadow: 0 0 10px rgba(0,0,0,.2);
+        box-shadow: 0 0 10px rgba(0,0,0,.2);
+}
+ .form:before, .header:before, .form:after, .header:before {
+        content: "";
+        position: absolute;
+        display: block;
+        border-style: solid;
+        border-color: #fff transparent transparent transparent;
+        bottom: -15px;
+		
+ }
+ 
+ .form2{
+	width: 80%;
+	background-color:#02623E;
+	padding:20px;
+	color:#ffffff;
+	font-style:bold;
+ }
+ 
+  .form3{
+	width: 100%;
+	background-color: rgba(170,217,186,1);
+	padding:20px;
+	color:#2D2D2D;
+	font-style:bold;
+ }
+ 
+.submit2, button{
+	width: 150%;
+	height:40px;
+	color:#fff;
+	background-color:#02623E;
+	
+}
+
+.submit, button{
+	width: 150%;
+	height:40px;
+	color:#fff;
+	background-color:#f90;
+	
+}
+.error, .ad {
+	font-weight: bold;
+	color: #C00
+}
+
+.container{
+	margin-top:1%;
+	
+}
+
+
+.form
+.form2
+.form3
+select,
+input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"],
+.uneditable-input {
+  width:40%;
+  display: inline-table;   
+  height: 30px;
+  padding: 4px 6px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  line-height: 16px;
+  color: #f90;
+  alignment-adjust:middle;
+  vertical-align: central;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+}
+
+h1, h3{
+	color:#02623E;
+}
+
+footer{
+    color:#FFF;
+	text-decoration:none;
+	font:Verdana, Geneva, sans-serif;
+	background-color:#02623E;
+	position: relative;/* this gives IE6 hasLayout to properly clear */
+	clear: both; /* this clear property forces the .container to understand where the columns end and contain them */
+	padding: auto;
+}
+
+footer p{
+	padding-left:10px;
+	color: #FFf;
+	height: 10%;	
+}
+
+a, a:link{
+	color:#f90;
+}
