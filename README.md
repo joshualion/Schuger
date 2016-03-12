@@ -1,7 +1,6 @@
 # Schuger: Free Web-based School Management Software
 
-Schuger is a web software one can use to build a full featured school (Nursery, Basic, college,university etc.) portal website.
-Schuger offer users, full customization with the use of themes and custom templates in addition to options for extending basic functionalities, with plugins that can be integrated seamlessly into the software.
+Schuger is a free web software one can use to build a full featured school (Nursery, Basic, college,university etc.) portal website. Schuger offer users, full customization with the use of themes and custom templates in addition to options for extending basic functionalities, with plugins that can be integrated seamlessly into the software.
 
 # core modules  includes;
 
