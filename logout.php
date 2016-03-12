@@ -1,4 +1,4 @@
- <?php # Script  - logout.php
+ <?php 
 // This is the logout page for the site.
 require ('includes/config.php'); 
 $page_title = 'Logout';
